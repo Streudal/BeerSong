@@ -1,1 +1,1 @@
-# BeerSong
+This project is to show we know how to use git. We are to write a small java program that mimics the '99 bottles of beer' song and outputs the correct number of bottles as the song goes on. Along with creating the song, we are to use branching and other git commands to progress through the assignment.
